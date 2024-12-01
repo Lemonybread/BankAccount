@@ -4,6 +4,7 @@ Simple banking CLI app
 
 ### Requirements
 - Python3
+- Visual Studio Code
 
 ### How to use
 
